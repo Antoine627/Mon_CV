@@ -1,0 +1,61 @@
+/*css du parti noir*/
+#contact_skills{
+ background-color: black;
+ width: 25%;
+ margin-left: 70%;
+ padding-bottom: 10%;
+ color: white;
+ text-align: center;
+ padding-top: 10%;
+}
+.titre {
+   
+    font-size: 20x;
+    border: 2px solid orange;
+    width: 60% ;
+    padding: 10px;
+    margin-left: 100px;
+  
+}
+p{
+    text-align: justify;
+    margin-left: 30%
+}
+.progress {
+    width: 65%;
+    height: 13px;
+    border: 1px solid orange;
+    margin-left: 100px;
+  }
+  #progress-bar {
+    width: 90%;
+    height: 100%;
+    background-color:orange;  
+    
+  }    
+  #progress-bar1 {
+    width: 60%;
+    height: 100%;
+    background-color:orange;  
+    
+  }       
+
+  #progress-bar2 {
+    width: 80%;
+    height: 100%;
+    background-color:orange;  
+    
+  }       
+
+  #progress-bar3 {
+    width: 95%;
+    height: 100%;
+    background-color:orange;  
+    
+  }  
+  .bi{
+    margin-right: 50%;
+    margin-bottom: -11%;
+    
+  }
+ 
