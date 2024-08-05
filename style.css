@@ -1,19 +1,3 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #5f9ea0	;
-}
-
-/********************PConteneur général*******************/
-#container {
-    max-width: 900px;
-    margin: 20px auto;
-    padding: 20px;
-    background: #fff;
-    /*border-radius: 10px;*/
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
-}
 .section {
     margin-bottom: 20px;
 }
@@ -22,13 +6,12 @@ body {
     display: flex;
     flex-wrap: wrap;
     margin: 5px;
-    /*padding: 12px;*/
+    padding: 12px;
 }
 .bloc
 {
     display: inline-block;
     margin: 20px;
-    
 }
 .experience
 {
@@ -38,7 +21,6 @@ body {
 #titre_bloc {
     position: relative;
     right: 20px;
-    /*border-bottom: 2px solid #eee;*/
     padding-bottom: 5px;
     padding-top: 10px;
     margin-bottom: 10px;
@@ -69,14 +51,4 @@ ul.square-bullets li::before {
     width: 20px; /* Largeur de la puce */
     height: 20px; /* Hauteur de la puce */
     background-color: orange; /* Couleur de la puce */
-}
-
-#barre_jaune /*Barre jaune footer*/
-{
-    background-color: orange;
-    position: relative;
-    top: 20px;
-    width: 940px;
-    height: 30px;
-    right: 20px;
 }
