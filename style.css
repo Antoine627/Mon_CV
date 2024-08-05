@@ -70,3 +70,13 @@ ul.square-bullets li::before {
     height: 20px; /* Hauteur de la puce */
     background-color: orange; /* Couleur de la puce */
 }
+
+#barre_jaune /*Barre jaune footer*/
+{
+    background-color: orange;
+    position: relative;
+    top: 20px;
+    width: 940px;
+    height: 30px;
+    right: 20px;
+}
