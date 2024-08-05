@@ -1,3 +1,56 @@
-#footer{
-    background-color: orangered;
+.section {
+    margin-bottom: 20px;
+}
+.exp
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    /padding: 12px;/
+}
+.bloc
+{
+    display: inline-block;
+    margin: 20px;
+
+}
+.experience
+{
+    font-size: 14px;
+}
+
+h2 {
+    position: relative;
+    right: 20px;
+    /border-bottom: 2px solid #eee;/
+    padding-bottom: 5px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    font-size: 22px;
+    color: #333;
+    background-color: orange;
+    text-align: right;
+    width: 510px;
+    height: 30px;
+    padding-right: 30px;
+}
+ul.square-bullets {
+    list-style-type: none; /* Enlève les puces par défaut */
+    padding: 0;
+}
+
+ul.square-bullets li {
+    position: relative;
+    padding-left: 25px; /* Espace pour la puce */
+}
+
+ul.square-bullets li::before {
+    content: ''; /* Contenu vide */
+    position: absolute;
+    right: 90%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px; /* Largeur de la puce */
+    height: 20px; /* Hauteur de la puce */
+    background-color: orange; /* Couleur de la puce */
 }
