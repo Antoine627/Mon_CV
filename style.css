@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .section {
     margin-bottom: 20px;
 }
@@ -89,3 +90,66 @@ ul.square-bullets li::before {
     font-size: 16px;
 }
 >>>>>>> 9c724ceee705864f6308d6df6db604382f8f2ec9
+=======
+/*css du parti noir*/
+#contact_skills{
+ background-color: black;
+ width: 25%;
+ margin-left: 70%;
+ padding-bottom: 10%;
+ color: white;
+ text-align: center;
+ padding-top: 15%;
+}
+.titre {
+   
+    font-size: 20x;
+    border: 2px solid orange;
+    width: 60% ;
+    padding: 10px;
+    margin-left: 100px;
+  
+}
+.paragraphe{
+    text-align: justify;
+    margin-left: 30%
+}
+.progress {
+    width: 65%;
+    height: 13px;
+    border: 1px solid orange;
+    margin-left: 100px;
+  }
+  #progress-bar {
+    width: 90%;
+    height: 100%;
+    background-color:orange;  
+    
+  }    
+  #progress-bar1 {
+    width: 60%;
+    height: 100%;
+    background-color:orange;  
+    
+  }       
+
+  #progress-bar2 {
+    width: 80%;
+    height: 100%;
+    background-color:orange;  
+    
+  }       
+
+  #progress-bar3 {
+    width: 95%;
+    height: 100%;
+    background-color:orange;  
+    
+  }  
+  .bi{
+    margin-right: 50%;
+    margin-bottom: -11%;
+    
+  }
+ 
+>>>>>>> 67650fdae770f6be861c71d5562bb499de59c7f6
