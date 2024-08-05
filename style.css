@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .section {
     margin-bottom: 20px;
 }
@@ -52,3 +53,39 @@ ul.square-bullets li::before {
     height: 20px; /* Hauteur de la puce */
     background-color: orange; /* Couleur de la puce */
 }
+=======
+#container{
+    padding: 200px;
+}
+
+#profil{
+    display: flex;
+    background-color: rgb(221, 168, 33);
+    align-items: center;
+}
+
+#image{
+    height: 200px;
+}
+#image img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 10px solid black;
+    position: relative;
+    bottom: 50px;
+    right: 50px;
+}
+
+#inf_user{
+    color: white;
+}
+
+#inf_user h1{
+    font-size: 30px;
+}
+
+#inf_user p{
+    font-size: 16px;
+}
+>>>>>>> 9c724ceee705864f6308d6df6db604382f8f2ec9
